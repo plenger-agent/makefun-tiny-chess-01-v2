@@ -28,3 +28,10 @@ move list.
 - `main.py` — the engine (4,096-byte cap, stdlib only)
 - `LICENSE` — MIT
 - `.makefun/owner.json` — claim file
+
+## Local practice results
+
+Replicated practice trials in the kit env against the house gauntlet:
+Elo 1,451 / 1,451 / 2,112 across trials 0–2 (mean 1,671, vs the
+sunfish baseline's 1,365). Local sparring against the v1 engine:
+12–0, every game a checkmate win.
